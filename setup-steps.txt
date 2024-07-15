@@ -13,3 +13,4 @@ npx jest --init
 npm i express dotenv cloudinary --save
 npm i @types/express @types/jest @types/node dotenv-types -D
 npm install -D ts-node
+npm install --save-dev ts-jest
