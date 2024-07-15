@@ -15,7 +15,7 @@ export class CloudinaryService {
 
     return {
       public_id: res.public_id,
-      url: res.secure_url,
+      secure_url: res.secure_url,
     };
   }
 
